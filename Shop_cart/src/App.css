@@ -1,0 +1,30 @@
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .shopping-card {
+    justify-content: space-around;
+    background-color: #0077EE;
+    padding: 20px 30px;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .product-item {
+    padding: 20px;
+  }
+
+  .btn {
+    display: block;
+    width: 100%;
+    font-size: 1.2rem;
+    margin: 8px 0;
+    padding: 15px 0;
+    background-color: #0077EE;
+    color: #fff;
+    border: 1px solid #333;
+    border-radius: 8px;
+    cursor: pointer;
+  }
